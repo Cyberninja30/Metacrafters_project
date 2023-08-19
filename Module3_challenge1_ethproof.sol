@@ -50,5 +50,3 @@ contract SimpleContract {
         return addressVariable;
     }
 }
-
-Message 🔊voice-space-2
