@@ -1,1 +1,1 @@
-# Metacrafters_eThProof_Beginner_Challenges
+# Metacrafters_EthProof_Beginner_Challenges
